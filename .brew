@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# check for updates
 brew update
 
+# install any upgrades
 brew upgrade
 
 brew install coreutils
@@ -10,6 +12,7 @@ brew install bash
 
 brew install wget --enable-iri
 
+# install moar stuff
 brew install git
 brew install node
 

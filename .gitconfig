@@ -19,7 +19,3 @@
         untracked = cyan
 [merge]
         log = true
-
-[user]
-	email = auswm85@gmail.com
-	username = auswm85

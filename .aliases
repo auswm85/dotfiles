@@ -1,0 +1,12 @@
+
+# spotify via command line
+alias spotify="osascript ~/src/SpotifyControl/SpotifyControl.scpt"
+
+# reverse push
+alias undopush="git push -f origin HEAD^:master"
+
+# trim new lines and copy to clipboard
+alias trimcopy="tr -d '\n' | pbcopy"
+
+# cleanup .DS_STORE files
+alias cleanup="find . -name '*.DS_STORE' -type f -ls -delete"
