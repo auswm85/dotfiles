@@ -1,7 +1,7 @@
-Austin's dotfiles
-================
+# Austin's dotfiles
 
-Installation
-===========
+## Installation
 
-`git clone https://github.com/auswm85/dotfiles.git && cd dotfiles && ./install.sh`
+```bash
+git clone https://github.com/auswm85/dotfiles.git && cd dotfiles && ./install.sh
+```
