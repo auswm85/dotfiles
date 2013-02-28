@@ -11,7 +11,7 @@ else
         echo
 
         if [[ $REPLY =~ ^[Yy]$ ]]; then
-                install()
+                install
         fi
 fi
 
