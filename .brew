@@ -1,0 +1,16 @@
+#!/bin/bash
+
+brew update
+
+brew upgrade
+
+brew install coreutils
+
+brew install bash
+
+brew install wget --enable-iri
+
+brew install git
+brew install node
+
+brew cleanup
